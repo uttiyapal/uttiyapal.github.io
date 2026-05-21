@@ -23,11 +23,11 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "/files/CV.pdf", title: "CV"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Linkedin, icon: linkedin, url: "/feed.xml"}
-  - {title: Instagram, icon: instagram, url: "/feed.xml"}
-  - {title: Youtube, icon: youtube, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:iamuttiyapal@gmail.com.com"}
+  - {title: Github, icon: github, url: "https://github.com/uttiyapal"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/uttiyapal/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_uttiyaa_/"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@uttiyapal"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
