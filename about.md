@@ -8,16 +8,6 @@ permalink: /about/
 
 I am a researcher and geospatial analyst with a strong interest in remote sensing, GIS, and environmental monitoring. My academic and research journey has focused on understanding ecological dynamics through satellite imagery, spatial analysis, and geospatial modelling.
 
-### Research Interests
-
-- Remote sensing and Earth observation
-- Mangrove ecosystem dynamics
-- Coastal landscape monitoring
-- Geospatial data science
-- Environmental change detection
-- Satellite image compositing methods
-- Climate and ecosystem studies
-
 ### Projects
 
 I have contributed to academic research projects and manuscripts related to:
