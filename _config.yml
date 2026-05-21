@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "/", title: "Home" }
-  - {url: "/about/", title: "About"}
+  - {file: "about.md", title: "About"}
   - {url: "/files/CV.pdf", title: "CV"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
