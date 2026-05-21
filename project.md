@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Projects"
+title: ""
 permalink: /project/
 ---
+
+#Projects
 
 I have contributed to academic research projects and manuscripts related to:
 
