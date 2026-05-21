@@ -4,7 +4,7 @@ title: ""
 permalink: /project/
 ---
 
-## Projects
+# Projects
 
 I have contributed to academic research projects and manuscripts related to:
 
