@@ -26,3 +26,9 @@ Outside academics and research, I enjoy:
 - Photography and nature observation
 - Learning new computational and analytical tools
 - Writing and maintaining academic and personal web projects
+
+---
+
+<div style="text-align: center; margin-top: 40px;">
+  <img src="/assets/images/about.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 8px;">
+</div>
