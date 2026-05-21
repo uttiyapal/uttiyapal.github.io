@@ -21,6 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "/", title: "Home" }
   - {file: "about.md", title: "About"}
   - {url: "/files/CV.pdf", title: "CV"}
+  - {file: "project.md", title: "Projects"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:iamuttiyapal@gmail.com"}
