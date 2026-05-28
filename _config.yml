@@ -27,7 +27,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:iamuttiyapal@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/uttiyapal"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/uttiyapal/"}
-  - {title: X, icon: twitter, url: "https://x.com/paluttiya"}
+  - {title: X, icon: square-x-twitter, url: "https://x.com/paluttiya"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_uttiyaa_/"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@uttiyapal"}
 
