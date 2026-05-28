@@ -30,7 +30,6 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: X, icon: twitter, url: "https://x.com/paluttiya"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_uttiyaa_/"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@uttiyapal"}
-  - {title: Linktree, icon: linktree, url: "https://linktr.ee/uttiyapal"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
