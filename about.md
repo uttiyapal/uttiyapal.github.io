@@ -21,7 +21,7 @@ Some highlights of my academic and research journey include:
 
 Outside academics and research, I enjoy:
 
-- Playing chess. Challenge me <a href="https://www.chess.com/member/uttiya02" target="_blank"><img src="/assets/images/chess.png" alt="Chess Logo" height="20" style="vertical-align: middle; margin: 0 4px;"> !
+- Playing chess. Challenge me <a href="https://www.chess.com/member/uttiya02" target="_blank"><img src="/assets/images/chess.png" alt="Chess Logo" height="20" style="vertical-align: middle; margin: 0 4px;">
 - Exploring maps and geospatial visualizations
 - Photography and nature observation
 - Learning new computational and analytical tools
